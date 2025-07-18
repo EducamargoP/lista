@@ -1,34 +1,41 @@
-# lista
+# Lista 2025 📘
 
-01 - Faça um programa que leia 5 valores numéricos e guarde-os em uma lista. No final, mostre qual foi o maior e o menor
+Este repositório reúne meus estudos e resoluções de desafios em Python ao longo de 2025. Os exercícios são baseados em listas de prática, desafios de plataformas como HackerRank, e projetos pessoais.
 
-02 -  Crie um programa onde o usuário possa digitar vários valores numéricos e cadastre-os em uma lista.
+## 📌 Estrutura
 
-03 - Crie um programa onde o usuário possa digitar cinco valores numéricos e cadastre-os em uma lista, já na posição correta de inserção
+### 🧮 Desafios de lógica e listas
 
-04 - ##Exercício Python 081: Crie um programa que vai ler vários números e colocar em uma lista.
- A) Quantos números foram digitados. B) A lista de valores, ordenada de forma decrescente. C) Se o valor 5 foi digitado e está ou não na lista.
+- `01-maior-menor.py`: Lê 5 valores e mostra o maior e o menor.
+- `02-lista-valores.py`: Permite digitar vários valores e armazenar em uma lista.
+- `03-insercao-ordenada.py`: Insere 5 valores já em ordem.
+- `04-quantidade-ordenacao-verificacao.py`: Conta valores, ordena e verifica se o número 5 foi digitado.
+- `05-pares-impares.py`: Separa valores pares e ímpares em listas diferentes.
+- `06-validacao-parenteses.py`: Verifica se os parênteses estão corretamente fechados.
+- `07-peso-pessoas.py`: Armazena nome e peso, mostra os mais leves e mais pesados.
+- `08-pares-impares-ordenados.py`: Separa e ordena pares e ímpares.
+- `09-matriz-3x3.py`: Cria e exibe uma matriz 3x3.
+- `10-mega-sena.py`: Gera palpites aleatórios para a Mega Sena.
+- `11-boletim-alunos.py`: Calcula média de alunos e exibe boletim.
+- `12-mercado.py`: Simula um sistema de mercado com análise, atualização e exclusão de itens.
 
-05 -Crie um programa que vai ler vários números e colocar em uma lista. Depois disso, crie duas listas extras que vão conter apenas os valores pares e os valores ímpares digitados, respectivamente.
- Ao final, mostre o conteúdo das três listas geradas.
+### 🌐 Desafios HackerRank
 
-06 - Exercício Python 083: Crie um programa onde o usuário digite uma expressão qualquer que use parênteses. Seu aplicativo deverá analisar se a expressão passada está com os parênteses abertos e fechados na ordem correta.
+- `plusMinus.py`: Calcula proporções de positivos, negativos e zeros.
+- `miniMaxSum.py`: Soma mínima e máxima de 4 entre 5 inteiros.
 
-07 - Exercício Python 084: Faça um programa que leia nome e peso de várias pessoas,
- guardando tudo em uma lista. No final, mostre:
- A) Quantas pessoas foram armazenadas. B) Uma listagem com  mais pesadas. c) Uma listagem com  mais leves.
+## 🚀 Objetivo
 
- 08 - Exercício Python 085: Crie um programa onde o usuário possa digitar sete valores numéricos e cadastre-os em uma lista única que mantenha separados os valores pares e ímpares.
- No final, mostre os valores pares e ímpares em ordem crescente.
+Praticar lógica de programação, algoritmos e estrutura de dados com foco em desenvolvimento backend e análise de dados.
 
- 09 - Exercício Python 086: Crie um programa que declare uma matriz de dimensão 3×3 e preencha com valores lidos pelo teclado.
- No final, mostre a matriz na tela, com a formatação correta.
+## 🛠️ Tecnologias
 
- 10 -Faça um programa que ajude um jogador da MEGA SENA a criar palpites.
- O programa vai perguntar quantos jogos serão gerados e vai sortear 6 números entre 1 e 60 para cada jogo,
- cadastrando tudo em uma lista composta.
+- Python 3.x
+- Git & GitHub
+- VS Code
 
- 11 - Crie um programa que leia nome e duas notas de vários alunos e guarde tudo em uma lista composta. No final,
- mostre um boletim contendo a média de cada um
+## ✍️ Autor
 
- 12 prova teste - Programa de mercado (analise, atualize, excluir lista).
+**Eduardo Camargo Paulino**  
+Cursando Análise e Desenvolvimento de Sistemas  
+Apaixonado por tecnologia, segurança da informação e desenvolvimento web.
